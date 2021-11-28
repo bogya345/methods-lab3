@@ -1,0 +1,1 @@
+{"V": ["Year", "VintageRating", "VintageRatingCount"], "E": [["Year", "VintageRating"]]}

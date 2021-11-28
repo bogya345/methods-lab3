@@ -1,0 +1,1 @@
+{"V": ["Year", "VintageRating", "VintageRatingCount", "WineRatingCount", "VintageRatingPriceRatio", "WineRatingPriceRatio", "WineRating", "VintagePrice", "WinePrice"], "E": [["VintageRating", "Year"], ["VintagePrice", "Year"], ["WinePrice", "Year"], ["WineRating", "VintageRating"], ["VintagePrice", "VintageRating"], ["WinePrice", "VintageRating"]]}
